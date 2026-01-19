@@ -1,2 +1,3 @@
 x = input()
+y = x = 2
 print(x)
